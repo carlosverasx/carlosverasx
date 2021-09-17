@@ -1,7 +1,7 @@
 # Olá! Eu sou Carlos Augusto
 - 🌱Estudo Front-end
 <div>
-  <a href="https://github.com/carlosaugustoveras">
+  <a href="https://github.com/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=7&theme=dark"/>
 </div>
