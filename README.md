@@ -1,5 +1,5 @@
 # Olá! Eu sou Carlos Augusto
-- 🌱Estudo Front-end
+- 🌱Estudo Front-end e desenvolvimento de Games
 <div>
   <a href="https://github.com/carlosaugustoveras">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosaugustoveras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
