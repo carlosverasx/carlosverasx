@@ -1,4 +1,4 @@
-# Olá! Eu sou Carlos Augusto
+# Olá! Eu sou Augusto Veras
 - 🌱Estudo Front-end;
 <div>
   <a href="https://github.com/carlosaugustoveras">
