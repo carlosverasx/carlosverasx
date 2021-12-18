@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm Nordestino!
+## I'm Carlos Augusto Veras!
 
 :computer: Studying to be a front-end developer!
 
