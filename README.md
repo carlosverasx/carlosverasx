@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm Carlos Augusto Veras!
+## I'm Carlos Veras!
 
 :computer: Studying to be a front-end developer!
 
@@ -29,9 +29,9 @@
 
 
 <div>
-  <a href="https://github.com/carlosaugustoveras">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlosaugustoveras&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaugustoveras&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/carlosverasx">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carlosverasx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosverasx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 
@@ -39,12 +39,12 @@
   ##
   
   <div> 
-  <a href="https://www.instagram.com/augusto_veras_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/carlosverasx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:augustov490@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href = "https://github.com/carlosaugustoveras" target="_blank"> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+   <a href = "https://github.com/carloverasx" target="_blank"> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <!--<a href="https://www.linkedin.com/in/carlos-augusto-veras-582aa8191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>-->
   
-   ![Snake animation](https://github.com/carlosaugustoveras/carlosaugustoveras/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/carlosverasx/carlosverasx/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   
